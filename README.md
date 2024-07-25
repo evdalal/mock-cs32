@@ -1,2 +1,2 @@
 # mock-cs32
-Deploying mock project from cs 32
+Deploying [mock](https://evdalal.github.io/mock-cs32/) project from cs 32.
